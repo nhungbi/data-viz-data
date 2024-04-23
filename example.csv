@@ -1,0 +1,18 @@
+name,value
+2010 total population,0.0917201614865181
+white population,0.0676965751493404
+BIPOC population,0.0664924907531719
+young (<18) population,0.0845864816445103
+elderly (>65) population,0.0637648246161719
+low income,0.1105096849141272
+high income,0.0657300189962467
+average income,0.0347804304498714
+family zoning compliance,0.0830814222857455
+city size,0.0563337181600107
+build year,0.0496171335118269
+property value,0.0371166293432135
+land value,0.0282473967067979
+average building density,0.068924726674034
+max building floors,0.0243685210617266
+max building density,0.0225823356044282
+building density compliance,0.0444474486422581
