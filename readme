@@ -1,0 +1,3 @@
+feature_weights.csv: random forest regression coefficients of the upzoning features that predict single family zoning percentage
+upzoning.csv: full set of features that were used to train the RF model. pop_2010, %nhwhi_2010, %bipoc_2010, %pop_u18, %pop_65o, %incu10, %in200o, income, city_size, total_value_psf, + land_value_psf columns are log transformed. all other cols are in the original scale. there are some NA values. 
+upzoning_noNA.csv: same as upzoning but all NA values are set to the median nonNA values for that column.
