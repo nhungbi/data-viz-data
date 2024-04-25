@@ -1,0 +1,22 @@
+seq_id,municipal,nhd,county,years,avg_short_year
+1,Boston,West Roxbury,Suffolk,2015,277428.5714
+8,Boston,West End,Suffolk,2015,294500
+10,Boston,South End,Suffolk,2015,348750
+18,Boston,South Boston,Suffolk,2015,314454.5455
+29,Boston,Roxbury,Suffolk,2015,628562.5
+45,Boston,Roslindale,Suffolk,2015,302142.8571
+52,Boston,North End,Suffolk,2015,173250
+56,Boston,Mission Hill,Suffolk,2015,656750
+60,Boston,Mattapan,Suffolk,2015,799545.4545
+71,Boston,Jamaica Plain,Suffolk,2015,263600
+81,Boston,Hyde Park,Suffolk,2015,366333.3333
+87,Boston,Fenway/Kenmore,Suffolk,2015,574375
+95,Boston,East Boston,Suffolk,2015,255416.6667
+107,Boston,Downtown,Suffolk,2015,541000
+109,Boston,Dorchester,Suffolk,2015,617888.8889
+135,Boston,Chinatown,Suffolk,2015,849000
+136,Boston,Charlestown,Suffolk,2015,281833.3333
+142,Boston,Beacon Hill,Suffolk,2015,242666.6667
+145,Boston,Bay Village,Suffolk,2015,303000
+146,Boston,Back Bay,Suffolk,2015,188600
+151,Boston,Allston/Brighton,Suffolk,2015,473888.8889
