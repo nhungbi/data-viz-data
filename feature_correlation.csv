@@ -1,101 +1,101 @@
-f1,f2,value
-2010 total population,2010 total population,1.0
-2010 total population,high income,0.0366837916649891
-2010 total population,city size,0.3229661141462266
-2010 total population,low income,-0.1933187363249301
-2010 total population,BIPOC population,-0.4374075302803152
-2010 total population,elderly (>65) population,-0.5582153847949126
-2010 total population,average building density,-0.4151922136543558
-2010 total population,family zoning compliance,-0.0613566724007153
-2010 total population,white population,-0.2943064857914692
-2010 total population,young (<18) population,-0.6068779506938473
-high income,2010 total population,0.0366837916649891
-high income,high income,1.0
-high income,city size,0.371999846352183
-high income,low income,-0.2649643102478953
-high income,BIPOC population,-0.3283964965964985
-high income,elderly (>65) population,-0.2645960651673065
-high income,average building density,-0.349565207764915
-high income,family zoning compliance,0.1240855710733444
-high income,white population,0.1156078780155904
-high income,young (<18) population,0.241541293960196
-city size,2010 total population,0.3229661141462266
-city size,high income,0.371999846352183
-city size,city size,1.0
-city size,low income,-0.1831460960902247
-city size,BIPOC population,-0.295377193649243
-city size,elderly (>65) population,-0.3087492357088121
-city size,average building density,-0.5407516975093274
-city size,family zoning compliance,-0.0232431753863882
-city size,white population,-0.0493888913568062
-city size,young (<18) population,0.0556973694466664
-low income,2010 total population,-0.1933187363249301
-low income,high income,-0.2649643102478953
-low income,city size,-0.1831460960902247
-low income,low income,0.9999999999999998
-low income,BIPOC population,0.3125475069129935
-low income,elderly (>65) population,0.3024410898793593
-low income,average building density,0.2870735329695096
-low income,family zoning compliance,-0.0908465615686927
-low income,white population,-0.0348160348699199
-low income,young (<18) population,-0.0655625193423534
-BIPOC population,2010 total population,-0.4374075302803152
-BIPOC population,high income,-0.3283964965964985
-BIPOC population,city size,-0.295377193649243
-BIPOC population,low income,0.3125475069129935
-BIPOC population,BIPOC population,1.0
-BIPOC population,elderly (>65) population,0.4269937989375684
-BIPOC population,average building density,0.5005440139975343
-BIPOC population,family zoning compliance,-0.0352126901337719
-BIPOC population,white population,-0.4233088123367426
-BIPOC population,young (<18) population,0.2895107465513593
-elderly (>65) population,2010 total population,-0.5582153847949125
-elderly (>65) population,high income,-0.2645960651673065
-elderly (>65) population,city size,-0.3087492357088121
-elderly (>65) population,low income,0.3024410898793593
-elderly (>65) population,BIPOC population,0.4269937989375683
-elderly (>65) population,elderly (>65) population,1.0
-elderly (>65) population,average building density,0.5123279452948238
-elderly (>65) population,family zoning compliance,0.0094815311386224
-elderly (>65) population,white population,0.1911637129191944
-elderly (>65) population,young (<18) population,0.0785001369347139
-average building density,2010 total population,-0.4151922136543557
-average building density,high income,-0.349565207764915
-average building density,city size,-0.5407516975093274
-average building density,low income,0.2870735329695096
-average building density,BIPOC population,0.5005440139975343
-average building density,elderly (>65) population,0.5123279452948238
-average building density,average building density,1.0
-average building density,family zoning compliance,0.0851812854545253
-average building density,white population,-0.0451267197219868
-average building density,young (<18) population,0.0484479699465014
-family zoning compliance,2010 total population,-0.0613566724007153
-family zoning compliance,high income,0.1240855710733444
-family zoning compliance,city size,-0.0232431753863882
-family zoning compliance,low income,-0.0908465615686927
-family zoning compliance,BIPOC population,-0.0352126901337719
-family zoning compliance,elderly (>65) population,0.0094815311386224
-family zoning compliance,average building density,0.0851812854545253
-family zoning compliance,family zoning compliance,1.0
-family zoning compliance,white population,-0.041625550089927
-family zoning compliance,young (<18) population,0.03644525326242
-white population,2010 total population,-0.2943064857914692
-white population,high income,0.1156078780155904
-white population,city size,-0.0493888913568062
-white population,low income,-0.0348160348699199
-white population,BIPOC population,-0.4233088123367425
-white population,elderly (>65) population,0.1911637129191944
-white population,average building density,-0.0451267197219868
-white population,family zoning compliance,-0.041625550089927
-white population,white population,1.0
-white population,young (<18) population,0.1295663818569313
-young (<18) population,2010 total population,-0.6068779506938473
-young (<18) population,high income,0.241541293960196
-young (<18) population,city size,0.0556973694466664
-young (<18) population,low income,-0.0655625193423534
-young (<18) population,BIPOC population,0.2895107465513593
-young (<18) population,elderly (>65) population,0.0785001369347139
-young (<18) population,average building density,0.0484479699465014
-young (<18) population,family zoning compliance,0.03644525326242
-young (<18) population,white population,0.1295663818569313
-young (<18) population,young (<18) population,1.0
+f1,f2,i1,i2,value
+2010 total population,2010 total population,0,0,1.0
+2010 total population,high income,0,1,0.0366837916649891
+2010 total population,city size,0,2,0.3229661141462266
+2010 total population,low income,0,3,-0.1933187363249301
+2010 total population,BIPOC population,0,4,-0.4374075302803152
+2010 total population,elderly (>65) population,0,5,-0.5582153847949126
+2010 total population,average building density,0,6,-0.4151922136543558
+2010 total population,family zoning compliance,0,7,-0.0613566724007153
+2010 total population,white population,0,8,-0.2943064857914692
+2010 total population,young (<18) population,0,9,-0.6068779506938473
+high income,2010 total population,1,0,0.0366837916649891
+high income,high income,1,1,1.0
+high income,city size,1,2,0.371999846352183
+high income,low income,1,3,-0.2649643102478953
+high income,BIPOC population,1,4,-0.3283964965964985
+high income,elderly (>65) population,1,5,-0.2645960651673065
+high income,average building density,1,6,-0.349565207764915
+high income,family zoning compliance,1,7,0.1240855710733444
+high income,white population,1,8,0.1156078780155904
+high income,young (<18) population,1,9,0.241541293960196
+city size,2010 total population,2,0,0.3229661141462266
+city size,high income,2,1,0.371999846352183
+city size,city size,2,2,1.0
+city size,low income,2,3,-0.1831460960902247
+city size,BIPOC population,2,4,-0.295377193649243
+city size,elderly (>65) population,2,5,-0.3087492357088121
+city size,average building density,2,6,-0.5407516975093274
+city size,family zoning compliance,2,7,-0.0232431753863882
+city size,white population,2,8,-0.0493888913568062
+city size,young (<18) population,2,9,0.0556973694466664
+low income,2010 total population,3,0,-0.1933187363249301
+low income,high income,3,1,-0.2649643102478953
+low income,city size,3,2,-0.1831460960902247
+low income,low income,3,3,0.9999999999999998
+low income,BIPOC population,3,4,0.3125475069129935
+low income,elderly (>65) population,3,5,0.3024410898793593
+low income,average building density,3,6,0.2870735329695096
+low income,family zoning compliance,3,7,-0.0908465615686927
+low income,white population,3,8,-0.0348160348699199
+low income,young (<18) population,3,9,-0.0655625193423534
+BIPOC population,2010 total population,4,0,-0.4374075302803152
+BIPOC population,high income,4,1,-0.3283964965964985
+BIPOC population,city size,4,2,-0.295377193649243
+BIPOC population,low income,4,3,0.3125475069129935
+BIPOC population,BIPOC population,4,4,1.0
+BIPOC population,elderly (>65) population,4,5,0.4269937989375684
+BIPOC population,average building density,4,6,0.5005440139975343
+BIPOC population,family zoning compliance,4,7,-0.0352126901337719
+BIPOC population,white population,4,8,-0.4233088123367426
+BIPOC population,young (<18) population,4,9,0.2895107465513593
+elderly (>65) population,2010 total population,5,0,-0.5582153847949125
+elderly (>65) population,high income,5,1,-0.2645960651673065
+elderly (>65) population,city size,5,2,-0.3087492357088121
+elderly (>65) population,low income,5,3,0.3024410898793593
+elderly (>65) population,BIPOC population,5,4,0.4269937989375683
+elderly (>65) population,elderly (>65) population,5,5,1.0
+elderly (>65) population,average building density,5,6,0.5123279452948238
+elderly (>65) population,family zoning compliance,5,7,0.0094815311386224
+elderly (>65) population,white population,5,8,0.1911637129191944
+elderly (>65) population,young (<18) population,5,9,0.0785001369347139
+average building density,2010 total population,6,0,-0.4151922136543557
+average building density,high income,6,1,-0.349565207764915
+average building density,city size,6,2,-0.5407516975093274
+average building density,low income,6,3,0.2870735329695096
+average building density,BIPOC population,6,4,0.5005440139975343
+average building density,elderly (>65) population,6,5,0.5123279452948238
+average building density,average building density,6,6,1.0
+average building density,family zoning compliance,6,7,0.0851812854545253
+average building density,white population,6,8,-0.0451267197219868
+average building density,young (<18) population,6,9,0.0484479699465014
+family zoning compliance,2010 total population,7,0,-0.0613566724007153
+family zoning compliance,high income,7,1,0.1240855710733444
+family zoning compliance,city size,7,2,-0.0232431753863882
+family zoning compliance,low income,7,3,-0.0908465615686927
+family zoning compliance,BIPOC population,7,4,-0.0352126901337719
+family zoning compliance,elderly (>65) population,7,5,0.0094815311386224
+family zoning compliance,average building density,7,6,0.0851812854545253
+family zoning compliance,family zoning compliance,7,7,1.0
+family zoning compliance,white population,7,8,-0.041625550089927
+family zoning compliance,young (<18) population,7,9,0.03644525326242
+white population,2010 total population,8,0,-0.2943064857914692
+white population,high income,8,1,0.1156078780155904
+white population,city size,8,2,-0.0493888913568062
+white population,low income,8,3,-0.0348160348699199
+white population,BIPOC population,8,4,-0.4233088123367425
+white population,elderly (>65) population,8,5,0.1911637129191944
+white population,average building density,8,6,-0.0451267197219868
+white population,family zoning compliance,8,7,-0.041625550089927
+white population,white population,8,8,1.0
+white population,young (<18) population,8,9,0.1295663818569313
+young (<18) population,2010 total population,9,0,-0.6068779506938473
+young (<18) population,high income,9,1,0.241541293960196
+young (<18) population,city size,9,2,0.0556973694466664
+young (<18) population,low income,9,3,-0.0655625193423534
+young (<18) population,BIPOC population,9,4,0.2895107465513593
+young (<18) population,elderly (>65) population,9,5,0.0785001369347139
+young (<18) population,average building density,9,6,0.0484479699465014
+young (<18) population,family zoning compliance,9,7,0.03644525326242
+young (<18) population,white population,9,8,0.1295663818569313
+young (<18) population,young (<18) population,9,9,1.0
